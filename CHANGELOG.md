@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Spiritual Gift
 
+## [1.2.1] - 2019-09-06
+
+### Changed
+
+- Fix bug that prevented the Add Bookmark feature for Chapter and Verse from working properly.
+
 ## [1.2.0] - 2019-09-06
 
 ### Added
