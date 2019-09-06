@@ -7,7 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- Bookmarks
+- Spiritual Gift
+
+## [1.2.0] - 2019-09-06
+
+### Added
+
+- Bookmarks. Now you can long press on any Chapter or Verse and at the top right of the screen select the add bookmark button. A popup will appear where you can select an existing group or create one to add the bookmark to. In Bookmarks you can long press on any bookmark for options. Example feature are: move up/down, swap between groups, rename, delete group, delete bookmark and clear bookmarks.
+
+### Changed
+
+- Tweaked UI to improve contrast
+- Updated some Icons and rendering
 
 ## [1.1.0] - 2019-08-28
 
