@@ -8,7 +8,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 - Search Bible
-- Filter Books
+
+## [1.3.0] - 2019-09-08
+
+### Added
+
+- Books Filter. Now books can be filtered by Old/New Testament, History, Wisdom etc.
+- Nav/Tab bar now toggles visibility when Swap/Rename Group is shown/hidden.
+- Closes AddBookmark/SwapGroup/RenameGroup when the dark area of the screen is tapped.
 
 ## [1.2.1] - 2019-09-06
 
